@@ -1,0 +1,45 @@
+# APK files (too large for git)
+*.apk
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+
+# Log files
+*.log
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# Node
+node_modules/
+npm-debug.log
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Personal data
+personal/
+private/
+
+# Test output
+test_output/
+*.test
